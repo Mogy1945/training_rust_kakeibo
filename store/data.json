@@ -1,0 +1,50 @@
+[
+  {
+    "name": "2月給与",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 200000,
+    "date": "2024-02-09"
+  },
+  {
+    "name": "2月ボーナス",
+    "category": {
+      "Income": "Bonus"
+    },
+    "price": 100000,
+    "date": "2024-02-09"
+  },
+  {
+    "name": "外食",
+    "category": {
+      "Expense": "Food"
+    },
+    "price": 1000,
+    "date": "2024-02-09"
+  },
+  {
+    "name": "パルワールド（ゲーム）",
+    "category": {
+      "Expense": "Hobby"
+    },
+    "price": 3000,
+    "date": "2024-02-09"
+  },
+  {
+    "name": "test",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 200,
+    "date": "2022-09-09"
+  },
+  {
+    "name": "外食",
+    "category": {
+      "Expense": "Food"
+    },
+    "price": 20000,
+    "date": "2024-02-09"
+  }
+]
